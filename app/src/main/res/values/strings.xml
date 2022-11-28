@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="birthy_day">Birthy day</string>
+    <string name="password">password</string>
+    <string name="email">Email</string>
+    <string name="add_number">add number</string>
+</resources>
