@@ -4,4 +4,6 @@
     <string name="password">password</string>
     <string name="email">Email</string>
     <string name="add_number">add number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Telas do app</string>
 </resources>
